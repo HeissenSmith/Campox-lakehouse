@@ -29,5 +29,30 @@ La solución está construida bajo un enfoque **event-driven y desacoplado**, in
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## 🧰 Tecnologías Utilizadas
+
+| Categoría | Tecnología |
+|------------|-------------|
+| ☁️ Cloud | Google Cloud Platform (Cloud SQL, Storage, Run, Functions, BigQuery) |
+| 💻 Lenguaje | Python 3.x |
+| 🗃️ Base de datos | MySQL / BigQuery |
+| 📈 BI Tools | Looker Studio / Power BI |
+
+---
+
+## 📊 Resultados
+
+- Integración automatizada de fuentes SQL y archivos.  
+- Reducción del tiempo de procesamiento y errores manuales.  
+- Disponibilidad de dashboards de ventas y desempeño en tiempo real.  
+
+---
+
+## ✨ Autor
+
+**Heissen Santoyo**  
+📧 heissensmith09@gmail.com
+💼 Especialización en Ingeniería de Datos – Proyecto Final
+
+---
 
